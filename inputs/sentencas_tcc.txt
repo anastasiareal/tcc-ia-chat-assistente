@@ -1,0 +1,11 @@
+1. Engenharia de Software é a aplicação de uma abordagem sistemática, disciplinada e quantificável ao desenvolvimento, operação e manutenção de software.
+
+2. O Trabalho de Conclusão de Curso (TCC) é a etapa final da graduação onde o estudante demonstra a capacidade de aplicar conhecimentos adquiridos na resolução de um problema real.
+
+3. Sistemas de busca vetorial (vector search) transformam trechos de texto em embeddings e permitem recuperar informações semanticamente relevantes, não apenas por palavras-chave.
+
+4. Embeddings são representações numéricas de texto em um espaço vetorial de alta dimensão que capturam significado semântico.
+
+5. IA generativa, combinada com Retrieval-Augmented Generation (RAG), permite criar assistentes personalizados que respondem exclusivamente com base no conteúdo dos documentos carregados pelo usuário.
+
+6. Correlacionar ideias entre diferentes artigos científicos é uma das maiores dificuldades no desenvolvimento de um TCC, e ferramentas de IA podem acelerar esse processo significativamente.
