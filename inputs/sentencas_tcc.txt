@@ -1,11 +1,15 @@
-1. Engenharia de Software é a aplicação de uma abordagem sistemática, disciplinada e quantificável ao desenvolvimento, operação e manutenção de software.
+1. O condicionamento operante, desenvolvido por B.F. Skinner, é o processo de aprendizagem no qual o comportamento é modificado pelas consequências que o seguem.
 
-2. O Trabalho de Conclusão de Curso (TCC) é a etapa final da graduação onde o estudante demonstra a capacidade de aplicar conhecimentos adquiridos na resolução de um problema real.
+2. Reforço positivo ocorre quando um estímulo agradável é adicionado após o comportamento desejado, aumentando a probabilidade de que ele se repita no futuro.
 
-3. Sistemas de busca vetorial (vector search) transformam trechos de texto em embeddings e permitem recuperar informações semanticamente relevantes, não apenas por palavras-chave.
+3. Reforço negativo consiste na remoção de um estímulo aversivo após o comportamento, fortalecendo assim a ocorrência desse comportamento.
 
-4. Embeddings são representações numéricas de texto em um espaço vetorial de alta dimensão que capturam significado semântico.
+4. Punição positiva envolve a apresentação de um estímulo desagradável após um comportamento indesejado, com o objetivo de diminuí-lo.
 
-5. IA generativa, combinada com Retrieval-Augmented Generation (RAG), permite criar assistentes personalizados que respondem exclusivamente com base no conteúdo dos documentos carregados pelo usuário.
+5. No desenvolvimento de rotinas de estudo, aplicar reforço positivo (ex.: recompensa após 50 minutos de estudo concentrado) ajuda a criar hábitos consistentes.
 
-6. Correlacionar ideias entre diferentes artigos científicos é uma das maiores dificuldades no desenvolvimento de um TCC, e ferramentas de IA podem acelerar esse processo significativamente.
+6. A técnica Pomodoro associada a uma recompensa imediata é um exemplo prático de condicionamento operante positivo para combater a procrastinação.
+
+7. Estudantes que utilizam reforços sistemáticos apresentam maior adesão e duração das sessões de estudo em comparação com aqueles que não utilizam nenhum esquema de consequência.
+
+8. A análise funcional do comportamento permite identificar os antecedentes e consequências que mantêm padrões de estudo inadequados, possibilitando intervenções mais eficazes baseadas em condicionamento operante.
